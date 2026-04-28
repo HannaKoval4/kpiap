@@ -1,0 +1,51 @@
+﻿<Window x:Class="Lab29Wpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab29Wpf"
+        mc:Ignorable="d"
+        Title="Lab 29 (WPF)" Height="420" Width="860"
+        Background="#0B1220">
+    <Window.InputBindings>
+        <KeyBinding Key="P" Modifiers="Control" Command="{Binding OpenPrintDialogCommand}" />
+        <KeyBinding Key="F9" Command="{Binding OpenPrintDialogCommand}" />
+    </Window.InputBindings>
+
+    <Grid Margin="18">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <Border Background="#0F172A" BorderBrush="#1F2937" BorderThickness="1" CornerRadius="16" Padding="14">
+            <StackPanel>
+                <TextBlock Text="Лабораторная 29 (WPF)" FontSize="20" FontWeight="SemiBold" Foreground="#E5E7EB" />
+                <TextBlock Text="По нажатию сочетания клавиш открывается диалог печати."
+                           Margin="0,6,0,0" Foreground="#94A3B8" />
+            </StackPanel>
+        </Border>
+
+        <Border Grid.Row="1" Margin="0,14,0,0" Background="#0F172A" BorderBrush="#1F2937" BorderThickness="1" CornerRadius="16" Padding="16">
+            <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                <TextBlock Text="Нажмите:" Foreground="#CBD5E1" FontSize="16" HorizontalAlignment="Center" />
+                <TextBlock Text="Ctrl + P" Foreground="#E5E7EB" FontSize="28" FontWeight="SemiBold" Margin="0,10,0,0" HorizontalAlignment="Center" />
+                <TextBlock Text="или" Foreground="#94A3B8" Margin="0,8,0,0" HorizontalAlignment="Center" />
+                <TextBlock Text="F9" Foreground="#E5E7EB" FontSize="24" FontWeight="SemiBold" Margin="0,8,0,0" HorizontalAlignment="Center" />
+
+                <Button Content="Открыть диалог печати"
+                        Margin="0,18,0,0"
+                        Padding="18,10"
+                        Background="#0B3B59"
+                        BorderBrush="#075985"
+                        Foreground="#E5E7EB"
+                        FontSize="16"
+                        Click="OpenPrint_Click" />
+            </StackPanel>
+        </Border>
+
+        <TextBlock Grid.Row="2" Margin="0,14,0,0" Foreground="#64748B"
+                   Text="Подсказка: если принтеров нет, Windows может показать сообщение об ошибке." />
+    </Grid>
+</Window>
