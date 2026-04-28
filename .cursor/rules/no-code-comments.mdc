@@ -1,0 +1,10 @@
+---
+description: Do not add code comments
+alwaysApply: true
+---
+
+# No code comments
+
+- Do not add comments in source code (C#, etc.).
+- Prefer self-explanatory naming and small functions instead of comments.
+- Only add a comment if it is strictly required for correctness (e.g., a compiler directive rationale) or the user explicitly asks for it.
