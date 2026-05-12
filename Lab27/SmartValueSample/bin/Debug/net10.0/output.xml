@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<results count="4">
+    <result>
+        <p>9</p>
+        <x>2</x>
+        <y>3</y>
+        <F>7.787039</F>
+    </result>
+    <result>
+        <p>9</p>
+        <x>5</x>
+        <y>7</y>
+        <F>18.688893</F>
+    </result>
+    <result>
+        <p>3</p>
+        <x>1.5</x>
+        <y>2.5</y>
+        <F>1.385014</F>
+    </result>
+    <result>
+        <p>9</p>
+        <x>10</x>
+        <y>20</y>
+        <F>46.722232</F>
+    </result>
+</results>

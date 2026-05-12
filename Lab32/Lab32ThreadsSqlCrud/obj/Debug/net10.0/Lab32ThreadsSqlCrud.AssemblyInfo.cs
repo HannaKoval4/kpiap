@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab32ThreadsSqlCrud")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e47d4116e6aa05bc43c2f29b22aa6621477c0d6d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4cf7b57b0132e4d51637d904cdac81e2d126cfd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab32ThreadsSqlCrud")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab32ThreadsSqlCrud")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

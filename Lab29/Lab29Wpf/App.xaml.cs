@@ -10,4 +10,3 @@ namespace Lab29Wpf;
 public partial class App : Application
 {
 }
-

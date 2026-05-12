@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user1\\Desktop\\с#\\Lab28\\Lab28Wpf\\Lab28Wpf.csproj": {}
+    "C:\\Users\\user1\\Desktop\\collage\\kpiap\\Lab28\\Lab28Wpf\\Lab28Wpf.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user1\\Desktop\\с#\\Lab28\\Lab28Wpf\\Lab28Wpf.csproj": {
+    "C:\\Users\\user1\\Desktop\\collage\\kpiap\\Lab28\\Lab28Wpf\\Lab28Wpf.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user1\\Desktop\\с#\\Lab28\\Lab28Wpf\\Lab28Wpf.csproj",
+        "projectUniqueName": "C:\\Users\\user1\\Desktop\\collage\\kpiap\\Lab28\\Lab28Wpf\\Lab28Wpf.csproj",
         "projectName": "Lab28Wpf",
-        "projectPath": "C:\\Users\\user1\\Desktop\\с#\\Lab28\\Lab28Wpf\\Lab28Wpf.csproj",
+        "projectPath": "C:\\Users\\user1\\Desktop\\collage\\kpiap\\Lab28\\Lab28Wpf\\Lab28Wpf.csproj",
         "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user1\\Desktop\\с#\\Lab28\\Lab28Wpf\\obj\\",
+        "outputPath": "C:\\Users\\user1\\Desktop\\collage\\kpiap\\Lab28\\Lab28Wpf\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

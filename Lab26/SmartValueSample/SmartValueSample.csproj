@@ -5,7 +5,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="input.txt">
+    <None Update="input.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>

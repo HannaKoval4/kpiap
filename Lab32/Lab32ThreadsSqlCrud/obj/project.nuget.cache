@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dI4/bZUBwEs=",
+  "dgSpecHash": "yIqLWH4FRUc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user1\\Desktop\\с#\\Lab32\\Lab32ThreadsSqlCrud\\Lab32ThreadsSqlCrud.csproj",
+  "projectFilePath": "C:\\Users\\user1\\Desktop\\collage\\kpiap\\Lab32\\Lab32ThreadsSqlCrud\\Lab32ThreadsSqlCrud.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user1\\.nuget\\packages\\microsoft.bcl.cryptography\\9.0.13\\microsoft.bcl.cryptography.9.0.13.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\microsoft.data.sqlclient\\7.0.1\\microsoft.data.sqlclient.7.0.1.nupkg.sha512",

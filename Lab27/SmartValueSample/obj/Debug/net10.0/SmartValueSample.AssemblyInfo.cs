@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartValueSample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d379574c57cca94678d8f5e5181cbb780db0fa4e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4cf7b57b0132e4d51637d904cdac81e2d126cfd")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartValueSample")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartValueSample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

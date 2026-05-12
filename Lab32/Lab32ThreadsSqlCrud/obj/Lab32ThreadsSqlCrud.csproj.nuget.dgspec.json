@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user1\\Desktop\\с#\\Lab32\\Lab32ThreadsSqlCrud\\Lab32ThreadsSqlCrud.csproj": {}
+    "C:\\Users\\user1\\Desktop\\collage\\kpiap\\Lab32\\Lab32ThreadsSqlCrud\\Lab32ThreadsSqlCrud.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user1\\Desktop\\с#\\Lab32\\Lab32ThreadsSqlCrud\\Lab32ThreadsSqlCrud.csproj": {
+    "C:\\Users\\user1\\Desktop\\collage\\kpiap\\Lab32\\Lab32ThreadsSqlCrud\\Lab32ThreadsSqlCrud.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user1\\Desktop\\с#\\Lab32\\Lab32ThreadsSqlCrud\\Lab32ThreadsSqlCrud.csproj",
+        "projectUniqueName": "C:\\Users\\user1\\Desktop\\collage\\kpiap\\Lab32\\Lab32ThreadsSqlCrud\\Lab32ThreadsSqlCrud.csproj",
         "projectName": "Lab32ThreadsSqlCrud",
-        "projectPath": "C:\\Users\\user1\\Desktop\\с#\\Lab32\\Lab32ThreadsSqlCrud\\Lab32ThreadsSqlCrud.csproj",
+        "projectPath": "C:\\Users\\user1\\Desktop\\collage\\kpiap\\Lab32\\Lab32ThreadsSqlCrud\\Lab32ThreadsSqlCrud.csproj",
         "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user1\\Desktop\\с#\\Lab32\\Lab32ThreadsSqlCrud\\obj\\",
+        "outputPath": "C:\\Users\\user1\\Desktop\\collage\\kpiap\\Lab32\\Lab32ThreadsSqlCrud\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user1\\Desktop\\с#\\Lab30\\Lab30Wpf\\Lab30Wpf.csproj",
+      "projectUniqueName": "C:\\Users\\user1\\Desktop\\collage\\kpiap\\Lab30\\Lab30Wpf\\Lab30Wpf.csproj",
       "projectName": "Lab30Wpf",
-      "projectPath": "C:\\Users\\user1\\Desktop\\с#\\Lab30\\Lab30Wpf\\Lab30Wpf.csproj",
+      "projectPath": "C:\\Users\\user1\\Desktop\\collage\\kpiap\\Lab30\\Lab30Wpf\\Lab30Wpf.csproj",
       "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user1\\Desktop\\с#\\Lab30\\Lab30Wpf\\obj\\",
+      "outputPath": "C:\\Users\\user1\\Desktop\\collage\\kpiap\\Lab30\\Lab30Wpf\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

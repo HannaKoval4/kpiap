@@ -1186,11 +1186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user1\\Desktop\\с#\\Lab31\\Lab31ThreadsSql\\Lab31ThreadsSql.csproj",
+      "projectUniqueName": "C:\\Users\\user1\\Desktop\\collage\\kpiap\\Lab31\\Lab31ThreadsSql\\Lab31ThreadsSql.csproj",
       "projectName": "Lab31ThreadsSql",
-      "projectPath": "C:\\Users\\user1\\Desktop\\с#\\Lab31\\Lab31ThreadsSql\\Lab31ThreadsSql.csproj",
+      "projectPath": "C:\\Users\\user1\\Desktop\\collage\\kpiap\\Lab31\\Lab31ThreadsSql\\Lab31ThreadsSql.csproj",
       "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user1\\Desktop\\с#\\Lab31\\Lab31ThreadsSql\\obj\\",
+      "outputPath": "C:\\Users\\user1\\Desktop\\collage\\kpiap\\Lab31\\Lab31ThreadsSql\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
